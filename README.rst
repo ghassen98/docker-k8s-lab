@@ -20,3 +20,5 @@ Any issues or suggestions, welcome to create issue or PR on GitHub.
    :target: http://docker-k8s-lab.readthedocs.io/en/latest/?badge=latest
 
 .. |wechat| image:: https://github.com/xiaopeng163/static/blob/master/QR/MY_WeChat_official_account.jpg
+
+TODO : Adapt it to the main DevOps course...
